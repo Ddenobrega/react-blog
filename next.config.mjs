@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "react-blog",
+  basePath: "/react-blog",
   output: "export",
   reactStrictMode: true,
 };
