@@ -17,8 +17,8 @@ export default function Page() {
         experience.
       </p>
       <p>
-        In today’s digital landscape, ensuring a website provides a clear and
-        accessible user experience (UX) is essential for success. To achieve
+        In today{"’"}s digital landscape, ensuring a website provides a clear
+        and accessible user experience (UX) is essential for success. To achieve
         this, analyzing user interaction and identifying potential roadblocks is
         crucial. This exploration will delve into two prominent tools,
         Lighthouse and WAVE, and their capabilities in assessing website
