@@ -32,7 +32,7 @@ export default function Page() {
       </p>
       <h2 className="font-bold text-xl pt-4">What are we testing?</h2>
       <p>
-        I chose to conduct tests on UG's SRMs (Student Records Management
+        I chose to conduct tests on UG{"'"}s SRMs (Student Records Management
         System) due to evident usability issues that have been observed.
         Recognizing the importance of an efficient and user-friendly system for
         managing student records, it became apparent that the current SRMs may
