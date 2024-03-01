@@ -39,16 +39,16 @@ export default function Page() {
         takes a laser focus on accessibility, highlighting potential violations
         of web accessibility guidelines. It categorizes these issues by severity
         and provides links to specific guidelines for further understanding.
-        While offering a broader scope, Lighthouse's accessibility checks are
-        not as in-depth as WAVE's.
+        While offering a broader scope, Lighthouse{"'"}s accessibility checks
+        are not as in-depth as WAVE{"'"}s.
       </p>
       <p>
-        Therefore, it's crucial to utilize these tools in conjunction to gain a
-        comprehensive understanding of a website's usability and accessibility.
-        Lighthouse sheds light on technical performance and general
-        accessibility, while WAVE dives deeper into specific accessibility
-        barriers, ultimately contributing to the development of a user-friendly
-        and inclusive online experience.
+        Therefore, it{"'"}s crucial to utilize these tools in conjunction to
+        gain a comprehensive understanding of a website{"'"}s usability and
+        accessibility. Lighthouse sheds light on technical performance and
+        general accessibility, while WAVE dives deeper into specific
+        accessibility barriers, ultimately contributing to the development of a
+        user-friendly and inclusive online experience.
       </p>
       <h2 className="font-bold text-xl pt-4">Wave Test Results</h2>
       <div className=" flex gap-4 flex-wrap items-middle lg:justify-center justify-around">
@@ -68,16 +68,16 @@ export default function Page() {
       </div>
       <p>
         Analyzing the provided WAVE report reveals several areas for improvement
-        in the website's accessibility. While no contrast errors were detected,
-        11 errors were identified, primarily related to missing alternative
-        text, fieldset issues, and missing form labels.
+        in the website{"'"}s accessibility. While no contrast errors were
+        detected, 11 errors were identified, primarily related to missing
+        alternative text, fieldset issues, and missing form labels.
       </p>
       <p>
         The absence of alternative text for at least one image presents a
         barrier for users with visual impairments who rely on screen readers.
         Without alternative text describing the image content, these users might
-        miss crucial information or find it difficult to understand the
-        webpage's overall message.
+        miss crucial information or find it difficult to understand the webpage
+        {"'"}s overall message.
       </p>
       <p>
         Furthermore, the identified fieldset errors indicate potential problems
@@ -90,7 +90,7 @@ export default function Page() {
         accessibility challenge. Users, especially those with vision impairments
         or cognitive disabilities, rely on labels to understand the purpose of
         each form element and provide the necessary information. The absence of
-        clear labels can hinder the user's ability to interact with the form
+        clear labels can hinder the user{"'"}s ability to interact with the form
         effectively and potentially lead to frustration and form abandonment.
       </p>
       <p>
@@ -98,10 +98,10 @@ export default function Page() {
         inclusive and user-friendly experience for everyone. By implementing
         alternative text, ensuring proper fieldset structure, and adding missing
         form labels, the website can significantly improve its accessibility and
-        cater to a broader range of users. It's important to note that this
+        cater to a broader range of users. It{"'"}s important to note that this
         analysis is based on the limited information in the screenshot, and a
         comprehensive evaluation would require examining the entire WAVE report
-        for a complete understanding of the website's accessibility state.
+        for a complete understanding of the website{"'"}s accessibility state.
       </p>
       <div className="flex flex-col justify-center">
         <h2 className="font-bold text-xl pt-4">Light-house Test Results</h2>
@@ -113,14 +113,14 @@ export default function Page() {
       </div>
       <p>
         The Lighthouse report reveals that while the website scores 60 overall,
-        there's room for improvement in key areas.
+        there{"'"}s room for improvement in key areas.
       </p>
       <p>
         Firstly, the performance score of 81 indicates significant opportunities
         to optimize website speed. This could involve optimizing images,
         reducing the execution time of JavaScript, and improving the efficiency
         of resource loading. the accessibility score is near borderline at 67,
-        it's crucial to analyze the specific results to ensure critical
+        it{"'"}s crucial to analyze the specific results to ensure critical
         accessibility barriers are fixed.
       </p>
       <p>
@@ -138,7 +138,7 @@ export default function Page() {
       </p>
       <p>
         Analyzing the Wave and Lighthouse test results provides a comprehensive
-        overview of the website's current state. The Wave report identifies
+        overview of the website{"'"}s current state. The Wave report identifies
         accessibility issues, particularly regarding alternative text, fieldset
         structure, and form labels, highlighting areas where users with
         disabilities may encounter barriers. Conversely, the Lighthouse report
