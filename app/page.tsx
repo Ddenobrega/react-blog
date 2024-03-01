@@ -30,6 +30,16 @@ export default function Page() {
         ultimately contributing to the development of a user-friendly and
         inclusive online experience.
       </p>
+      <h2 className="font-bold text-xl pt-4">What are we testing?</h2>
+      <p>
+        I chose to conduct tests on UG's SRMs (Student Records Management
+        System) due to evident usability issues that have been observed.
+        Recognizing the importance of an efficient and user-friendly system for
+        managing student records, it became apparent that the current SRMs may
+        be falling short in meeting these criteria. Reports of difficulties in
+        navigation, data input errors, and overall user dissatisfaction with the
+        system underscore the need for a thorough evaluation
+      </p>
       <h2 className="font-bold text-xl pt-4">Why choose these tools?</h2>
       <p>
         Lighthouse offers a broader perspective, encompassing technical SEO,
